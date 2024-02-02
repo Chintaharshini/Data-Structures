@@ -1,1 +1,1 @@
-This Repository includes all the learnings include Linked List, Stacks and Trees.
+This Repository includes all the learnings include Linked Lists, Stacks and Trees.
